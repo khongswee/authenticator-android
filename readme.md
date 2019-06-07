@@ -18,4 +18,4 @@ The architecture of the project follows the principles of Clean Architecture MVV
 ### Thanks
 
 * [Testing](https://medium.com/swlh/testing-your-network-logic-ec61d999f03f)
-* [Authenticator](https://maven.apache.org/
+* [Authenticator](https://github.com/DanFlor/MixedAuthExample)
